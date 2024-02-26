@@ -1,0 +1,7 @@
+name = Ubercart attribute and options copied when using Node clone
+description = "Copies Ubercart attributes and options when cloning an existing product."
+backdrop = 1.x
+type = module
+dependencies[] = uc_attribute
+dependencies[] = node_clone
+package = Ubercart - extra
